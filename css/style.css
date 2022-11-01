@@ -1,0 +1,20 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.testDiv{
+    display: flex;
+    flex-direction: row;
+    white-space: normal
+}   
+.testDiv h1{
+    font-size: 65px;
+    padding-right: 10px;
+}
+.espacamento{
+    margin-left: 50px;
+}
+.bottonM{
+    padding-bottom: 20px;
+}
